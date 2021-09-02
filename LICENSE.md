@@ -1,5 +1,4 @@
-#### Copyright © 2021 
-##### Daniela Farias, Thiarhes Gonçalves, Luisa Santos, Tayane Souza, Erica Neres, Sabrina Anselmo
+#### Copyright © 2021 Daniela Farias, Thiarhes Gonçalves, Luisa Santos, Tayane Souza, Erica Neres, Sabrina Anselmo
 ##
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
