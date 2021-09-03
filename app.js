@@ -14,12 +14,9 @@ app.use(express.urlencoded({ extended: false }));
 
 app.use(cors());
 
-require('./controllers/authController')(app);
+const auth = require('./routes/auth.routes');
 
-// Rotas
-app.get('/', (req, res) => {
-  res.send('ok');
-});
+app.use('/', auth);
 
 // Exportar o app
 module.exports = app;
